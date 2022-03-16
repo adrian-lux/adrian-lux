@@ -27,7 +27,7 @@
 <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-lux&show_icons=true&locale=en&layout=compact" alt="adrian-lux" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrian-lux&show_icons=true&locale=ja&layout=compact" alt="adrian-lux" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adrian-lux&show_icons=true&locale=ja" alt="adrian" /></p>
 <!--
