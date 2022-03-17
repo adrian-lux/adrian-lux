@@ -1,5 +1,6 @@
 <h1 align="left">Hi, I am Adrian Lux</h1>
-<h3 align="left">Technical leader, enthusiast of best practices and development standards.</h3>
+
+<h2>Developer and System Engineer living in Akita, Japan.</2>
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
